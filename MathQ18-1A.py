@@ -6,7 +6,7 @@ The problem is to find as many combinations of positive integer values for x, y,
 import math
 
 # Define the equation
-equation = "x + 2y + 3z = 14"
+equation = "x + 2y + 3z = 5"
 
 Combinations = []
 
