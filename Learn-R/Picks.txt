@@ -1,0 +1,750 @@
+[148] 12.165525 12.206556 12.247449 12.288206 12.328828 12.369317 12.409674
+[155] 12.449900 12.489996 12.529964 12.569805 12.609520 12.649111 12.688578
+[162] 12.727922 12.767145 12.806248 12.845233 12.884099 12.922848 12.961481
+[169] 13.000000 13.038405 13.076697 13.114877 13.152946 13.190906 13.228757
+[176] 13.266499 13.304135 13.341664 13.379088 13.416408 13.453624 13.490738
+[183] 13.527749 13.564660 13.601471 13.638182 13.674794 13.711309 13.747727
+[190] 13.784049 13.820275 13.856406 13.892444 13.928388 13.964240 14.000000
+[197] 14.035669 14.071247 14.106736 14.142136 14.177447 14.212670 14.247807
+[204] 14.282857 14.317821 14.352700 14.387495 14.422205 14.456832 14.491377
+[211] 14.525839 14.560220 14.594520 14.628739 14.662878 14.696938 14.730920
+[218] 14.764823 14.798649 14.832397 14.866069 14.899664 14.933185 14.966630
+[225] 15.000000 15.033296 15.066519 15.099669 15.132746 15.165751 15.198684
+[232] 15.231546 15.264338 15.297059 15.329710 15.362291 15.394804 15.427249
+[239] 15.459625 15.491933 15.524175 15.556349 15.588457 15.620499 15.652476
+[246] 15.684387 15.716234 15.748016 15.779734 15.811388 15.842980 15.874508
+[253] 15.905974 15.937377 15.968719 16.000000 16.031220 16.062378 16.093477
+[260] 16.124515 16.155494 16.186414 16.217275 16.248077 16.278821 16.309506
+[267] 16.340135 16.370706 16.401219 16.431677 16.462078 16.492423 16.522712
+[274] 16.552945 16.583124 16.613248 16.643317 16.673332 16.703293 16.733201
+[281] 16.763055 16.792856 16.822604 16.852300 16.881943 16.911535 16.941074
+[288] 16.970563 17.000000 17.029386 17.058722 17.088007 17.117243 17.146428
+[295] 17.175564 17.204651 17.233688 17.262677 17.291616 17.320508 17.349352
+[302] 17.378147 17.406895 17.435596 17.464249 17.492856 17.521415 17.549929
+[309] 17.578396 17.606817 17.635192 17.663522 17.691806 17.720045 17.748239
+[316] 17.776389 17.804494 17.832555 17.860571 17.888544 17.916473 17.944358
+[323] 17.972201 18.000000 18.027756 18.055470 18.083141 18.110770 18.138357
+[330] 18.165902 18.193405 18.220867 18.248288 18.275667 18.303005 18.330303
+[337] 18.357560 18.384776 18.411953 18.439089 18.466185 18.493242 18.520259
+[344] 18.547237 18.574176 18.601075 18.627936 18.654758 18.681542 18.708287
+[351] 18.734994 18.761663 18.788294 18.814888 18.841444 18.867962 18.894444
+[358] 18.920888 18.947295 18.973666 19.000000 19.026298 19.052559 19.078784
+[365] 19.104973 19.131126 19.157244 19.183326 19.209373 19.235384 19.261360
+[372] 19.287302 19.313208 19.339080 19.364917 19.390719 19.416488 19.442222
+[379] 19.467922 19.493589 19.519221 19.544820 19.570386 19.595918 19.621417
+[386] 19.646883 19.672316 19.697716 19.723083 19.748418 19.773720 19.798990
+[393] 19.824228 19.849433 19.874607 19.899749 19.924859 19.949937 19.974984
+[400] 20.000000 20.024984 20.049938 20.074860 20.099751 20.124612 20.149442
+[407] 20.174241 20.199010 20.223748 20.248457 20.273135 20.297783 20.322401
+[414] 20.346990 20.371549 20.396078 20.420578 20.445048 20.469489 20.493902
+[421] 20.518285 20.542639 20.566964 20.591260 20.615528 20.639767 20.663978
+[428] 20.688161 20.712315 20.736441 20.760539 20.784610 20.808652 20.832667
+[435] 20.856654 20.880613 20.904545 20.928450 20.952327 20.976177 21.000000
+[442] 21.023796 21.047565 21.071308 21.095023 21.118712 21.142375 21.166010
+[449] 21.189620 21.213203 21.236761 21.260292 21.283797 21.307276 21.330729
+[456] 21.354157 21.377558 21.400935 21.424285 21.447611 21.470911 21.494185
+[463] 21.517435 21.540659 21.563859 21.587033 21.610183 21.633308 21.656408
+[470] 21.679483 21.702534 21.725561 21.748563 21.771541 21.794495 21.817424
+[477] 21.840330 21.863211 21.886069 21.908902 21.931712 21.954498 21.977261
+[484] 22.000000 22.022716 22.045408 22.068076 22.090722 22.113344 22.135944
+[491] 22.158520 22.181073 22.203603 22.226111 22.248595 22.271057 22.293497
+[498] 22.315914 22.338308 22.360680
+> z
+  [1]      1      4      9     16     25     36     49     64     81    100
+ [11]    121    144    169    196    225    256    289    324    361    400
+ [21]    441    484    529    576    625    676    729    784    841    900
+ [31]    961   1024   1089   1156   1225   1296   1369   1444   1521   1600
+ [41]   1681   1764   1849   1936   2025   2116   2209   2304   2401   2500
+ [51]   2601   2704   2809   2916   3025   3136   3249   3364   3481   3600
+ [61]   3721   3844   3969   4096   4225   4356   4489   4624   4761   4900
+ [71]   5041   5184   5329   5476   5625   5776   5929   6084   6241   6400
+ [81]   6561   6724   6889   7056   7225   7396   7569   7744   7921   8100
+ [91]   8281   8464   8649   8836   9025   9216   9409   9604   9801  10000
+[101]  10201  10404  10609  10816  11025  11236  11449  11664  11881  12100
+[111]  12321  12544  12769  12996  13225  13456  13689  13924  14161  14400
+[121]  14641  14884  15129  15376  15625  15876  16129  16384  16641  16900
+[131]  17161  17424  17689  17956  18225  18496  18769  19044  19321  19600
+[141]  19881  20164  20449  20736  21025  21316  21609  21904  22201  22500
+[151]  22801  23104  23409  23716  24025  24336  24649  24964  25281  25600
+[161]  25921  26244  26569  26896  27225  27556  27889  28224  28561  28900
+[171]  29241  29584  29929  30276  30625  30976  31329  31684  32041  32400
+[181]  32761  33124  33489  33856  34225  34596  34969  35344  35721  36100
+[191]  36481  36864  37249  37636  38025  38416  38809  39204  39601  40000
+[201]  40401  40804  41209  41616  42025  42436  42849  43264  43681  44100
+[211]  44521  44944  45369  45796  46225  46656  47089  47524  47961  48400
+[221]  48841  49284  49729  50176  50625  51076  51529  51984  52441  52900
+[231]  53361  53824  54289  54756  55225  55696  56169  56644  57121  57600
+[241]  58081  58564  59049  59536  60025  60516  61009  61504  62001  62500
+[251]  63001  63504  64009  64516  65025  65536  66049  66564  67081  67600
+[261]  68121  68644  69169  69696  70225  70756  71289  71824  72361  72900
+[271]  73441  73984  74529  75076  75625  76176  76729  77284  77841  78400
+[281]  78961  79524  80089  80656  81225  81796  82369  82944  83521  84100
+[291]  84681  85264  85849  86436  87025  87616  88209  88804  89401  90000
+[301]  90601  91204  91809  92416  93025  93636  94249  94864  95481  96100
+[311]  96721  97344  97969  98596  99225  99856 100489 101124 101761 102400
+[321] 103041 103684 104329 104976 105625 106276 106929 107584 108241 108900
+[331] 109561 110224 110889 111556 112225 112896 113569 114244 114921 115600
+[341] 116281 116964 117649 118336 119025 119716 120409 121104 121801 122500
+[351] 123201 123904 124609 125316 126025 126736 127449 128164 128881 129600
+[361] 130321 131044 131769 132496 133225 133956 134689 135424 136161 136900
+[371] 137641 138384 139129 139876 140625 141376 142129 142884 143641 144400
+[381] 145161 145924 146689 147456 148225 148996 149769 150544 151321 152100
+[391] 152881 153664 154449 155236 156025 156816 157609 158404 159201 160000
+[401] 160801 161604 162409 163216 164025 164836 165649 166464 167281 168100
+[411] 168921 169744 170569 171396 172225 173056 173889 174724 175561 176400
+[421] 177241 178084 178929 179776 180625 181476 182329 183184 184041 184900
+[431] 185761 186624 187489 188356 189225 190096 190969 191844 192721 193600
+[441] 194481 195364 196249 197136 198025 198916 199809 200704 201601 202500
+[451] 203401 204304 205209 206116 207025 207936 208849 209764 210681 211600
+[461] 212521 213444 214369 215296 216225 217156 218089 219024 219961 220900
+[471] 221841 222784 223729 224676 225625 226576 227529 228484 229441 230400
+[481] 231361 232324 233289 234256 235225 236196 237169 238144 239121 240100
+[491] 241081 242064 243049 244036 245025 246016 247009 248004 249001 250000
+> y=sqrt(x)
+Warning message:
+In sqrt(x) : NaNs produced
+> y
+ [1]      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN
+ [9]      NaN      NaN 0.000000 1.000000 1.414214 1.732051 2.000000 2.236068
+[17] 2.449490 2.645751 2.828427 3.000000 3.162278
+> z=(x)^2
+> plot(x,z)
+> barplot(x,z)
+> scatterplot(x,z)
+Error in scatterplot(x, z) : could not find function "scatterplot"
+> plot(x,z)
+> plot(x,y)
+> plot(x,z)
+> x
+ [1] -10  -9  -8  -7  -6  -5  -4  -3  -2  -1   0   1   2   3   4   5   6   7   8
+[20]   9  10
+> iris
+    Sepal.Length Sepal.Width Petal.Length Petal.Width    Species
+1            5.1         3.5          1.4         0.2     setosa
+2            4.9         3.0          1.4         0.2     setosa
+3            4.7         3.2          1.3         0.2     setosa
+4            4.6         3.1          1.5         0.2     setosa
+5            5.0         3.6          1.4         0.2     setosa
+6            5.4         3.9          1.7         0.4     setosa
+7            4.6         3.4          1.4         0.3     setosa
+8            5.0         3.4          1.5         0.2     setosa
+9            4.4         2.9          1.4         0.2     setosa
+10           4.9         3.1          1.5         0.1     setosa
+11           5.4         3.7          1.5         0.2     setosa
+12           4.8         3.4          1.6         0.2     setosa
+13           4.8         3.0          1.4         0.1     setosa
+14           4.3         3.0          1.1         0.1     setosa
+15           5.8         4.0          1.2         0.2     setosa
+16           5.7         4.4          1.5         0.4     setosa
+17           5.4         3.9          1.3         0.4     setosa
+18           5.1         3.5          1.4         0.3     setosa
+19           5.7         3.8          1.7         0.3     setosa
+20           5.1         3.8          1.5         0.3     setosa
+21           5.4         3.4          1.7         0.2     setosa
+22           5.1         3.7          1.5         0.4     setosa
+23           4.6         3.6          1.0         0.2     setosa
+24           5.1         3.3          1.7         0.5     setosa
+25           4.8         3.4          1.9         0.2     setosa
+26           5.0         3.0          1.6         0.2     setosa
+27           5.0         3.4          1.6         0.4     setosa
+28           5.2         3.5          1.5         0.2     setosa
+29           5.2         3.4          1.4         0.2     setosa
+30           4.7         3.2          1.6         0.2     setosa
+31           4.8         3.1          1.6         0.2     setosa
+32           5.4         3.4          1.5         0.4     setosa
+33           5.2         4.1          1.5         0.1     setosa
+34           5.5         4.2          1.4         0.2     setosa
+35           4.9         3.1          1.5         0.2     setosa
+36           5.0         3.2          1.2         0.2     setosa
+37           5.5         3.5          1.3         0.2     setosa
+38           4.9         3.6          1.4         0.1     setosa
+39           4.4         3.0          1.3         0.2     setosa
+40           5.1         3.4          1.5         0.2     setosa
+41           5.0         3.5          1.3         0.3     setosa
+42           4.5         2.3          1.3         0.3     setosa
+43           4.4         3.2          1.3         0.2     setosa
+44           5.0         3.5          1.6         0.6     setosa
+45           5.1         3.8          1.9         0.4     setosa
+46           4.8         3.0          1.4         0.3     setosa
+47           5.1         3.8          1.6         0.2     setosa
+48           4.6         3.2          1.4         0.2     setosa
+49           5.3         3.7          1.5         0.2     setosa
+50           5.0         3.3          1.4         0.2     setosa
+51           7.0         3.2          4.7         1.4 versicolor
+52           6.4         3.2          4.5         1.5 versicolor
+53           6.9         3.1          4.9         1.5 versicolor
+54           5.5         2.3          4.0         1.3 versicolor
+55           6.5         2.8          4.6         1.5 versicolor
+56           5.7         2.8          4.5         1.3 versicolor
+57           6.3         3.3          4.7         1.6 versicolor
+58           4.9         2.4          3.3         1.0 versicolor
+59           6.6         2.9          4.6         1.3 versicolor
+60           5.2         2.7          3.9         1.4 versicolor
+61           5.0         2.0          3.5         1.0 versicolor
+62           5.9         3.0          4.2         1.5 versicolor
+63           6.0         2.2          4.0         1.0 versicolor
+64           6.1         2.9          4.7         1.4 versicolor
+65           5.6         2.9          3.6         1.3 versicolor
+66           6.7         3.1          4.4         1.4 versicolor
+67           5.6         3.0          4.5         1.5 versicolor
+68           5.8         2.7          4.1         1.0 versicolor
+69           6.2         2.2          4.5         1.5 versicolor
+70           5.6         2.5          3.9         1.1 versicolor
+71           5.9         3.2          4.8         1.8 versicolor
+72           6.1         2.8          4.0         1.3 versicolor
+73           6.3         2.5          4.9         1.5 versicolor
+74           6.1         2.8          4.7         1.2 versicolor
+75           6.4         2.9          4.3         1.3 versicolor
+76           6.6         3.0          4.4         1.4 versicolor
+77           6.8         2.8          4.8         1.4 versicolor
+78           6.7         3.0          5.0         1.7 versicolor
+79           6.0         2.9          4.5         1.5 versicolor
+80           5.7         2.6          3.5         1.0 versicolor
+81           5.5         2.4          3.8         1.1 versicolor
+82           5.5         2.4          3.7         1.0 versicolor
+83           5.8         2.7          3.9         1.2 versicolor
+84           6.0         2.7          5.1         1.6 versicolor
+85           5.4         3.0          4.5         1.5 versicolor
+86           6.0         3.4          4.5         1.6 versicolor
+87           6.7         3.1          4.7         1.5 versicolor
+88           6.3         2.3          4.4         1.3 versicolor
+89           5.6         3.0          4.1         1.3 versicolor
+90           5.5         2.5          4.0         1.3 versicolor
+91           5.5         2.6          4.4         1.2 versicolor
+92           6.1         3.0          4.6         1.4 versicolor
+93           5.8         2.6          4.0         1.2 versicolor
+94           5.0         2.3          3.3         1.0 versicolor
+95           5.6         2.7          4.2         1.3 versicolor
+96           5.7         3.0          4.2         1.2 versicolor
+97           5.7         2.9          4.2         1.3 versicolor
+98           6.2         2.9          4.3         1.3 versicolor
+99           5.1         2.5          3.0         1.1 versicolor
+100          5.7         2.8          4.1         1.3 versicolor
+101          6.3         3.3          6.0         2.5  virginica
+102          5.8         2.7          5.1         1.9  virginica
+103          7.1         3.0          5.9         2.1  virginica
+104          6.3         2.9          5.6         1.8  virginica
+105          6.5         3.0          5.8         2.2  virginica
+106          7.6         3.0          6.6         2.1  virginica
+107          4.9         2.5          4.5         1.7  virginica
+108          7.3         2.9          6.3         1.8  virginica
+109          6.7         2.5          5.8         1.8  virginica
+110          7.2         3.6          6.1         2.5  virginica
+111          6.5         3.2          5.1         2.0  virginica
+112          6.4         2.7          5.3         1.9  virginica
+113          6.8         3.0          5.5         2.1  virginica
+114          5.7         2.5          5.0         2.0  virginica
+115          5.8         2.8          5.1         2.4  virginica
+116          6.4         3.2          5.3         2.3  virginica
+117          6.5         3.0          5.5         1.8  virginica
+118          7.7         3.8          6.7         2.2  virginica
+119          7.7         2.6          6.9         2.3  virginica
+120          6.0         2.2          5.0         1.5  virginica
+121          6.9         3.2          5.7         2.3  virginica
+122          5.6         2.8          4.9         2.0  virginica
+123          7.7         2.8          6.7         2.0  virginica
+124          6.3         2.7          4.9         1.8  virginica
+125          6.7         3.3          5.7         2.1  virginica
+126          7.2         3.2          6.0         1.8  virginica
+127          6.2         2.8          4.8         1.8  virginica
+128          6.1         3.0          4.9         1.8  virginica
+129          6.4         2.8          5.6         2.1  virginica
+130          7.2         3.0          5.8         1.6  virginica
+131          7.4         2.8          6.1         1.9  virginica
+132          7.9         3.8          6.4         2.0  virginica
+133          6.4         2.8          5.6         2.2  virginica
+134          6.3         2.8          5.1         1.5  virginica
+135          6.1         2.6          5.6         1.4  virginica
+136          7.7         3.0          6.1         2.3  virginica
+137          6.3         3.4          5.6         2.4  virginica
+138          6.4         3.1          5.5         1.8  virginica
+139          6.0         3.0          4.8         1.8  virginica
+140          6.9         3.1          5.4         2.1  virginica
+141          6.7         3.1          5.6         2.4  virginica
+142          6.9         3.1          5.1         2.3  virginica
+143          5.8         2.7          5.1         1.9  virginica
+144          6.8         3.2          5.9         2.3  virginica
+145          6.7         3.3          5.7         2.5  virginica
+146          6.7         3.0          5.2         2.3  virginica
+147          6.3         2.5          5.0         1.9  virginica
+148          6.5         3.0          5.2         2.0  virginica
+149          6.2         3.4          5.4         2.3  virginica
+150          5.9         3.0          5.1         1.8  virginica
+> plot(iris.Sepal.Lenght, iris.Sepal.Width)
+Error: object 'iris.Sepal.Lenght' not found
+> plot(Sepal.Length,Sepal.Width)
+Error: object 'Sepal.Length' not found
+> View(iris)
+> View(iri.Sepal.Length)
+Error: object 'iri.Sepal.Length' not found
+> plot(iris, aes(x= Sepal.Length, y = Sepal.Width)) +
++ geom_point()
+NULL
+> plot(iris, aes(x= Sepal.Length, y = Sepal.Width))  
+Warning messages:
+1: display list redraw incomplete
+2: display list redraw incomplete
+3: display list redraw incomplete
+4: display list redraw incomplete
+> plot(iris, aes(x= Sepal.Length, y = Sepal.Width)) + geom_point()
+NULL
+> ggplot(iris, aes(x= Sepal.Length, y = Sepal.Width)) + geom_point()
+> # Load the necessary library
+> library(ggplot2)
+> 
+> # Create the scatter plot
+> ggplot(iris, aes(x = Sepal.Length, y = Sepal.Width)) +
++   geom_point(color = "blue") +  # Change the color of the points to blue
++   labs(x = "Sepal Length", y = "Sepal Width", title = "Scatterplot of Sepal $
++   theme_minimal()  # Use a minimal theme
+> plot(iris, aes(x = Sepal.Length, y = Sepal.Width)) +  
++   geom_point(color = "blue") +  # Change the color of the points to blue
++   labs(x = "Sepal Length", y = "Sepal Width", title = "Scatterplot of Sepal $
++   theme_minimal()  # Use a minimal theme
+Error in plot(iris, aes(x = Sepal.Length, y = Sepal.Width)) + geom_point(color = "blue") +  : 
+  non-numeric argument to binary operator
+> dim(iris)
+[1] 150   5
+> head(iris)
+  Sepal.Length Sepal.Width Petal.Length Petal.Width Species
+1          5.1         3.5          1.4         0.2  setosa
+2          4.9         3.0          1.4         0.2  setosa
+3          4.7         3.2          1.3         0.2  setosa
+4          4.6         3.1          1.5         0.2  setosa
+5          5.0         3.6          1.4         0.2  setosa
+6          5.4         3.9          1.7         0.4  setosa
+> iris[4]
+    Petal.Width
+1           0.2
+2           0.2
+3           0.2
+4           0.2
+5           0.2
+6           0.4
+7           0.3
+8           0.2
+9           0.2
+10          0.1
+11          0.2
+12          0.2
+13          0.1
+14          0.1
+15          0.2
+16          0.4
+17          0.4
+18          0.3
+19          0.3
+20          0.3
+21          0.2
+22          0.4
+23          0.2
+24          0.5
+25          0.2
+26          0.2
+27          0.4
+28          0.2
+29          0.2
+30          0.2
+31          0.2
+32          0.4
+33          0.1
+34          0.2
+35          0.2
+36          0.2
+37          0.2
+38          0.1
+39          0.2
+40          0.2
+41          0.3
+42          0.3
+43          0.2
+44          0.6
+45          0.4
+46          0.3
+47          0.2
+48          0.2
+49          0.2
+50          0.2
+51          1.4
+52          1.5
+53          1.5
+54          1.3
+55          1.5
+56          1.3
+57          1.6
+58          1.0
+59          1.3
+60          1.4
+61          1.0
+62          1.5
+63          1.0
+64          1.4
+65          1.3
+66          1.4
+67          1.5
+68          1.0
+69          1.5
+70          1.1
+71          1.8
+72          1.3
+73          1.5
+74          1.2
+75          1.3
+76          1.4
+77          1.4
+78          1.7
+79          1.5
+80          1.0
+81          1.1
+82          1.0
+83          1.2
+84          1.6
+85          1.5
+86          1.6
+87          1.5
+88          1.3
+89          1.3
+90          1.3
+91          1.2
+92          1.4
+93          1.2
+94          1.0
+95          1.3
+96          1.2
+97          1.3
+98          1.3
+99          1.1
+100         1.3
+101         2.5
+102         1.9
+103         2.1
+104         1.8
+105         2.2
+106         2.1
+107         1.7
+108         1.8
+109         1.8
+110         2.5
+111         2.0
+112         1.9
+113         2.1
+114         2.0
+115         2.4
+116         2.3
+117         1.8
+118         2.2
+119         2.3
+120         1.5
+121         2.3
+122         2.0
+123         2.0
+124         1.8
+125         2.1
+126         1.8
+127         1.8
+128         1.8
+129         2.1
+130         1.6
+131         1.9
+132         2.0
+133         2.2
+134         1.5
+135         1.4
+136         2.3
+137         2.4
+138         1.8
+139         1.8
+140         2.1
+141         2.4
+142         2.3
+143         1.9
+144         2.3
+145         2.5
+146         2.3
+147         1.9
+148         2.0
+149         2.3
+150         1.8
+> iris[4][4]
+Error in `[.data.frame`(iris[4], 4) : undefined columns selected
+> iris[3,4]
+[1] 0.2
+> iris[,4]
+  [1] 0.2 0.2 0.2 0.2 0.2 0.4 0.3 0.2 0.2 0.1 0.2 0.2 0.1 0.1 0.2 0.4 0.4 0.3
+ [19] 0.3 0.3 0.2 0.4 0.2 0.5 0.2 0.2 0.4 0.2 0.2 0.2 0.2 0.4 0.1 0.2 0.2 0.2
+ [37] 0.2 0.1 0.2 0.2 0.3 0.3 0.2 0.6 0.4 0.3 0.2 0.2 0.2 0.2 1.4 1.5 1.5 1.3
+ [55] 1.5 1.3 1.6 1.0 1.3 1.4 1.0 1.5 1.0 1.4 1.3 1.4 1.5 1.0 1.5 1.1 1.8 1.3
+ [73] 1.5 1.2 1.3 1.4 1.4 1.7 1.5 1.0 1.1 1.0 1.2 1.6 1.5 1.6 1.5 1.3 1.3 1.3
+ [91] 1.2 1.4 1.2 1.0 1.3 1.2 1.3 1.3 1.1 1.3 2.5 1.9 2.1 1.8 2.2 2.1 1.7 1.8
+[109] 1.8 2.5 2.0 1.9 2.1 2.0 2.4 2.3 1.8 2.2 2.3 1.5 2.3 2.0 2.0 1.8 2.1 1.8
+[127] 1.8 1.8 2.1 1.6 1.9 2.0 2.2 1.5 1.4 2.3 2.4 1.8 1.8 2.1 2.4 2.3 1.9 2.3
+[145] 2.5 2.3 1.9 2.0 2.3 1.8
+> iris$Sepal.Width
+  [1] 3.5 3.0 3.2 3.1 3.6 3.9 3.4 3.4 2.9 3.1 3.7 3.4 3.0 3.0 4.0 4.4 3.9 3.5
+ [19] 3.8 3.8 3.4 3.7 3.6 3.3 3.4 3.0 3.4 3.5 3.4 3.2 3.1 3.4 4.1 4.2 3.1 3.2
+ [37] 3.5 3.6 3.0 3.4 3.5 2.3 3.2 3.5 3.8 3.0 3.8 3.2 3.7 3.3 3.2 3.2 3.1 2.3
+ [55] 2.8 2.8 3.3 2.4 2.9 2.7 2.0 3.0 2.2 2.9 2.9 3.1 3.0 2.7 2.2 2.5 3.2 2.8
+ [73] 2.5 2.8 2.9 3.0 2.8 3.0 2.9 2.6 2.4 2.4 2.7 2.7 3.0 3.4 3.1 2.3 3.0 2.5
+ [91] 2.6 3.0 2.6 2.3 2.7 3.0 2.9 2.9 2.5 2.8 3.3 2.7 3.0 2.9 3.0 3.0 2.5 2.9
+[109] 2.5 3.6 3.2 2.7 3.0 2.5 2.8 3.2 3.0 3.8 2.6 2.2 3.2 2.8 2.8 2.7 3.3 3.2
+[127] 2.8 3.0 2.8 3.0 2.8 3.8 2.8 2.8 2.6 3.0 3.4 3.1 3.0 3.1 3.1 3.1 2.7 3.2
+[145] 3.3 3.0 2.5 3.0 3.4 3.0
+> plot(iris$Sepal.Width)
+> colnames(iris)
+[1] "Sepal.Length" "Sepal.Width"  "Petal.Length" "Petal.Width"  "Species"
+> rownames(iris)
+  [1] "1"   "2"   "3"   "4"   "5"   "6"   "7"   "8"   "9"   "10"  "11"  "12"
+ [13] "13"  "14"  "15"  "16"  "17"  "18"  "19"  "20"  "21"  "22"  "23"  "24" 
+ [25] "25"  "26"  "27"  "28"  "29"  "30"  "31"  "32"  "33"  "34"  "35"  "36"
+ [37] "37"  "38"  "39"  "40"  "41"  "42"  "43"  "44"  "45"  "46"  "47"  "48" 
+ [49] "49"  "50"  "51"  "52"  "53"  "54"  "55"  "56"  "57"  "58"  "59"  "60"
+ [61] "61"  "62"  "63"  "64"  "65"  "66"  "67"  "68"  "69"  "70"  "71"  "72" 
+ [73] "73"  "74"  "75"  "76"  "77"  "78"  "79"  "80"  "81"  "82"  "83"  "84"
+ [85] "85"  "86"  "87"  "88"  "89"  "90"  "91"  "92"  "93"  "94"  "95"  "96"
+ [97] "97"  "98"  "99"  "100" "101" "102" "103" "104" "105" "106" "107" "108"
+[109] "109" "110" "111" "112" "113" "114" "115" "116" "117" "118" "119" "120"
+[121] "121" "122" "123" "124" "125" "126" "127" "128" "129" "130" "131" "132"
+[133] "133" "134" "135" "136" "137" "138" "139" "140" "141" "142" "143" "144"
+[145] "145" "146" "147" "148" "149" "150"
+> mean(iris$Petal.Width)
+[1] 1.199333
+> mean(iris$Setal.Width)
+[1] NA
+Warning message:
+In mean.default(iris$Setal.Width) :
+  argument is not numeric or logical: returning NA
+> mean(iris$Sepal.Width)
+[1] 3.057333
+> min(iris$Sepal.Width)
+[1] 2
+> prod(iris$Sepal.Width)
+[1] 1.390618e+72
+> add(iris$Sepal.Width)
+Error in add(iris$Sepal.Width) : could not find function "add"
+> sum(iris$Sepal.Width)
+[1] 458.6
+> view(iris$Sepal.Width)
+Error in view(iris$Sepal.Width) : could not find function "view"
+> View(iris$Sepal.Width)
+> PL<-iris$Petal.Length
+> PW<-iris$Petal.Width 
+> SW<-iris$Sepal.Width
+> SL<-iris$Sepal.Length
+> summary(PL,SL)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  1.000   1.600   4.350   3.758   5.100   6.900 
+> summary(PL,SL,PW,SW)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  1.000   1.600   4.350   3.758   5.100   6.900 
+> barplot(PL,SL,PW)
+> barplot(PL,SL,PW,SW)
+> ggplot(PL,SL,PW,SW) 
+Error in `ggplot()`:
+! `mapping` must be created with `aes()`.
+✖ You've supplied a double vector.
+Run `rlang::last_trace()` to see where the error occurred.
+> plot(PL,SL,PW,SW)  
+Error in plot.window(...) : invalid 'xlim' value
+> barplot(PL,SL,PW,SW)
+> hist(PL,SL,PW,SW)   
+Error in hist.default(PL, SL, PW, SW) : 
+  some 'x' not counted; maybe 'breaks' do not span range of 'x'
+> hist(PL)         
+> qqline(PL)
+> qqnorm(PL)
+> qqline(PL,SL)
+Error in if (datax) { : the condition has length > 1
+> qqline(PL)   
+> qqline(SL)
+> qqline(SW)
+> qqline(PW)
+> PL1 = PL[1:50]
+> PL2 = PL [51:100]
+> t.test(PL)
+
+        One Sample t-test
+
+data:  PL
+t = 26.073, df = 149, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 3.473185 4.042815
+sample estimates:
+mean of x
+    3.758
+
+> t.test(PL, mu=6.0)
+
+        One Sample t-test
+
+data:  PL
+t = -15.555, df = 149, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 6
+95 percent confidence interval:
+ 3.473185 4.042815
+sample estimates:
+mean of x
+    3.758
+
+> shapiro.test(PL)
+
+        Shapiro-Wilk normality test
+
+data:  PL
+W = 0.87627, p-value = 7.412e-10
+
+> counts = table(iris$Species)
+> counts
+
+    setosa versicolor  virginica
+        50         50         50
+> plot(counts)
+> pie(counts)
+> pie(PL)
+> pie(fishes)
+> scatter(PL)
+Error in scatter(PL) : could not find function "scatter"
+> scatterplot(PL)
+Error in scatterplot(PL) : could not find function "scatterplot"
+> SP = iris$Species
+> SP
+  [1] setosa     setosa     setosa     setosa     setosa     setosa
+  [7] setosa     setosa     setosa     setosa     setosa     setosa
+ [13] setosa     setosa     setosa     setosa     setosa     setosa
+ versicolor virginica  virginica
+[103] virginica  virginica  virginica  virginica  virginica  virginica
+[109] virginica  virginica  virginica  virginica  virginica  virginica
+[115] virginica  virginica  virginica  virginica  virginica  virginica
+[121] virginica  virginica  virginica  virginica  virginica  virginica
+[127] virginica  virginica  virginica  virginica  virginica  virginica
+[133] virginica  virginica  virginica  virginica  virginica  virginica
+[139] virginica  virginica  virginica  virginica  virginica  virginica
+[145] virginica  virginica  virginica  virginica  virginica  virginica
+Levels: setosa versicolor virginica
+> unique(SP)
+[1] setosa     versicolor virginica
+Levels: setosa versicolor virginica
+> plot(SP)
+> plot(PW,PL)
+> plot(PW, PL, col =rainbow(3)[SP)
+Error: unexpected ')' in "plot(PW, PL, col =rainbow(3)[SP)"
+> plot(PW, PL, col =rainbow(3)[SP])
+> plot(PW, PL, col =rainbow(6)[SP])
+> plot(PW, PL, col =rainbow(10)[SP])
+> plot(PW, PL, col =rainbow(1)[SP])
+> plot(PW, PL, col =rainbow(3)[SP])
+> legend("topleft", levels(SP), fill = rainbow(3))
+> legend("bottomleft", levels(SP), fill = rainbow(3))
+> legend("bottomright", levels(SP), fill = rainbow(3))
+> legend("topright", levels(SP), fill = rainbow(3))
+> clear
+Error: object 'clear' not found
+> exit
+Error: object 'exit' not found
+> close 
+function (con, ...) 
+UseMethod("close")
+<bytecode: 0x000001f71b4fe190>
+<environment: namespace:base>
+> cor(PW,PL)
+[1] 0.9628654
+> cor(SW,SL)
+[1] -0.1175698
+> cor(SL,SW)
+[1] -0.1175698
+> cor(SL,PL)
+[1] 0.8717538
+> Pearson.test(PW,PL)
+Error in Pearson.test(PW, PL) : could not find function "Pearson.test"
+> pearson.test(PW,PL)
+Error in pearson.test(PW, PL) : could not find function "pearson.test"
+> p.test(PW,PL)      
+Error in p.test(PW, PL) : could not find function "p.test"
+> Pearson(PW,PL)
+Error in Pearson(PW, PL) : could not find function "Pearson"
+> pearson(PW,PL)
+Error in pearson(PW, PL) : could not find function "pearson"
+> p-value(PW,PL)
+Error: object 'p' not found
+> model = lm(PL~ PW)
+> model
+
+Call:
+lm(formula = PL ~ PW)
+
+Coefficients:
+(Intercept)           PW
+      1.084        2.230
+
+> summary(model)
+
+Call:
+lm(formula = PL ~ PW)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-1.33542 -0.30347 -0.02955  0.25776  1.39453
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1.08356    0.07297   14.85   <2e-16 ***
+PW           2.22994    0.05140   43.39   <2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 0.4782 on 148 degrees of freedom
+Multiple R-squared:  0.9271,    Adjusted R-squared:  0.9266
+F-statistic:  1882 on 1 and 148 DF,  p-value: < 2.2e-16
+
+> plot(model)
+Waiting to confirm page change...
+
+>
+> summary(model)
+
+Call:
+lm(formula = PL ~ PW)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-1.33542 -0.30347 -0.02955  0.25776  1.39453 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1.08356    0.07297   14.85   <2e-16 ***
+PW           2.22994    0.05140   43.39   <2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 0.4782 on 148 degrees of freedom
+Multiple R-squared:  0.9271,    Adjusted R-squared:  0.9266 
+F-statistic:  1882 on 1 and 148 DF,  p-value: < 2.2e-16
+
+> abline(model)
+> plot(PW,PL)
+> qqline(PW)
+> abline(PW)
+Error in int_abline(a = a, b = b, h = h, v = v, untf = untf, ...) : 
+  invalid a=, b= specification
+> abline(PW,PL)
+> abline(model)
+> plot(PW,PL)  
+> abline(model)
+> aov(PL~SP)
+Call:
+   aov(formula = PL ~ SP)
+
+Terms:
+                      SP Residuals
+Sum of Squares  437.1028   27.2226
+Deg. of Freedom        2       147
+
+Residual standard error: 0.4303345
+Estimated effects may be unbalanced
+> summary(aov(PL~SP))
+             Df Sum Sq Mean Sq F value Pr(>F)
+SP            2  437.1  218.55    1180 <2e-16 ***
+Residuals   147   27.2    0.19
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+> 
